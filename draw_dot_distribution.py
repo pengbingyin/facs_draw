@@ -13,7 +13,7 @@ plt.rcParams['font.family'] = 'Arial'
 plt.rcParams['font.size'] = 8
 
 # Define output_dir (adjust if needed based on previous setup)
-output_dir = 'output/Z1A9-200ac'  # Replace with your actual output folder path
+output_dir = 'output/Z1A9-20ac'  # Replace with your actual output folder path
 
 # List all .csv files in output_dir (and subdirs)
 csv_files = []
